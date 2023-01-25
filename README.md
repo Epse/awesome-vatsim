@@ -1,4 +1,4 @@
-# Awesome VAtsim
+# Awesome VATSIM
 A Collection of awesome Open-Source VATSIM projects
 
 ## Table of Contents
