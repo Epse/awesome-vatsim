@@ -6,6 +6,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Table of Contents
 - [Libraries](#libraries)
 - - [VATSIM Connect](#vatsim-connect)
+- [Training Management Systems](#training-management-systems)
 - [Stands](#stands)
 - [Euroscope Plugins](#euroscope-plugins)
 - [Clients](#clients)
@@ -21,8 +22,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Plain PHP Connect](https://github.com/vatsimcaribbean/connect)
 - [Laravel Socialite](https://github.com/SocialiteProviders/Vatsim)
 
-## Training Management System
-- [Control Center](https://github.com/Vatsim-Scandinavia/controlcenter)
+## Training Management Systems
+- [Control Center](https://github.com/Vatsim-Scandinavia/controlcenter) - Open source TMS to handle applications, bookings and training related tasks
 
 ## Stands
 - [VATSIM Scandinavia Stands](https://github.com/Vatsim-Scandinavia/stands)
