@@ -21,6 +21,9 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Plain PHP Connect](https://github.com/vatsimcaribbean/connect)
 - [Laravel Socialite](https://github.com/SocialiteProviders/Vatsim)
 
+## Training Management System
+- [Control Center](https://github.com/Vatsim-Scandinavia/controlcenter)
+
 ## Stands
 - [VATSIM Scandinavia Stands](https://github.com/Vatsim-Scandinavia/stands)
 - [VATSIM Stand Status](https://github.com/atoff/vatsim-stand-status)
