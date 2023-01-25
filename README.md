@@ -1,5 +1,7 @@
 # Awesome VATSIM
-A Collection of awesome Open-Source VATSIM projects
+A Collection of awesome Open-Source VATSIM projects.
+
+This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 ## Table of Contents
 - [Libraries](#libraries)
