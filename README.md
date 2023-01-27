@@ -53,6 +53,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Clients
 - [vice](https://github.com/mmp/vice)
 - [vatSys](https://github.com/vatSys)
+- [xPilot](https://github.com/xpilot-project/xpilot) - The X-Plane Pilot cliënt
+- [vATIS](https://github.com/vatis-project/vatis) - Next Generation ATIS client
 
 ## Others
 - [Portugal vACC EAUP](https://gitlab.com/portugal-vacc/eaup)
