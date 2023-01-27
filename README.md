@@ -5,9 +5,10 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ## Table of Contents
 - [Libraries](#libraries)
-- - [VATSIM Connect](#vatsim-connect)
+  - [VATSIM Connect](#vatsim-connect)
 - [Training Management Systems](#training-management-systems)
 - [Stands](#stands)
+- [Mapping Tools](#mapping-tools)
 - [Euroscope Plugins](#euroscope-plugins)
 - [Clients](#clients)
 - [Others](#other)
@@ -28,6 +29,13 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Stands
 - [VATSIM Scandinavia Stands](https://github.com/Vatsim-Scandinavia/stands)
 - [VATSIM Stand Status](https://github.com/atoff/vatsim-stand-status)
+
+## Mapping Tools
+- [SimAware TRACON Project](https://github.com/vatsimnetwork/simaware-tracon-project)
+- [VATPrism](https://github.com/marvk/vatprism)
+- [SimAware](https://github.com/maiuswong/simaware-express)
+- [VATSpy Data Project](https://github.com/vatsimnetwork/vatspy-data-project/) - Sector mappings used by many maps
+- [qutescoop](https://github.com/qutescoop/qutescoop/releases)
 
 ## Euroscope plugins
 - [Virtual Controller Helper](https://github.com/DrFreas/VCH)
@@ -50,9 +58,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Portugal vACC VATLARA](https://gitlab.com/portugal-vacc/vatlara)
 - [Sector File Coordinate converter](https://webtools.kusternet.ch/geo/coordinatesconverter)
 - [My Belux API](https://git.sr.ht/~epse/belux-training-platform-api/)
-- [SimAware](https://github.com/maiuswong/simaware-express)
 - [VATSIM Site Content](https://github.com/vatsimnetwork/site-content)
 - [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [ZAB ARTCC Sources](https://github.com/zabartcc)
-- [VATSpy Data Project](https://github.com/vatsimnetwork/vatspy-data-project/) - Sector mappings used by many maps
 - [FSD](https://github.com/kuroneko/fsd)
