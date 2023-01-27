@@ -52,6 +52,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ## Clients
 - [vice](https://github.com/mmp/vice)
+- [vatSys](https://github.com/vatSys)
 
 ## Others
 - [Portugal vACC EAUP](https://gitlab.com/portugal-vacc/eaup)
