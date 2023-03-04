@@ -69,3 +69,5 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [ZAB ARTCC Sources](https://github.com/zabartcc)
 - [FSD](https://github.com/kuroneko/fsd)
+- [VRCLiveTraffic](https://github.com/Sequal32/vrclivetraffic) - Live real-world traffic into your VRC or Euroscope client
+- [OpenSkyToEuroscope](https://github.com/aap007freak/OpenSkyToEuroscope) - Injects OpenSky live traffic into Euroscope
