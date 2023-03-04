@@ -55,6 +55,10 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [PushbackFlorian](https://github.com/MorpheusXAUT/PushbackFlorian)
 - [IASsure](https://github.com/MorpheusXAUT/IASsure) - IAS / Mach calculator
 - [VATCAN slots plugin](https://github.com/VATSIMCanada/Slots-Plugin)
+- [ModeS](https://github.com/ogruetzmann/ModeS) - Simulates Mode S transponders
+- [UACPlugin](https://github.com/pierr3/UACPlugin) - Simulates European UAC systems
+- [ZoomDeclutter](https://github.com/pierr3/ZoomDeclutter) - Allows hiding and showing sector elements depending on zoom level
+- [RDF](https://github.com/chembergj/RDF) - Simulates Radio Direction Finding systems
 
 ## Clients
 - [vice](https://github.com/mmp/vice)
