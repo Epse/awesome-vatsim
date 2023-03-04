@@ -23,6 +23,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [OAuth2 Vatsim PHP](https://github.com/vatsimnetwork/oauth2-vatsim-php) - PHP League VATSIM Connect library
 - [Plain PHP Connect](https://github.com/vatsimcaribbean/connect)
 - [Laravel Socialite](https://github.com/SocialiteProviders/Vatsim)
+- [vatsim_sso](https://github.com/pierr3/vatsim_sso) - A Ruby gem for VATSIM Connect
 
 ## Training Management Systems
 - [Control Center](https://github.com/Vatsim-Scandinavia/controlcenter) - Open source TMS to handle applications, bookings and training related tasks
