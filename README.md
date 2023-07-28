@@ -12,6 +12,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Mapping Tools](#mapping-tools)
 - [Euroscope Plugins](#euroscope-plugins)
 - [Clients](#clients)
+- [Discord bots](#discord-bots)
 - [Others](#others)
 
 ## Libraries
