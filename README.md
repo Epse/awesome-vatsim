@@ -12,6 +12,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Mapping Tools](#mapping-tools)
 - [Euroscope Plugins](#euroscope-plugins)
 - [Clients](#clients)
+- [Discord bots](#discord-bots)
 - [Others](#others)
 
 ## Libraries
@@ -68,13 +69,17 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vATIS](https://github.com/vatis-project/vatis) - Next Generation ATIS client
 - [VectorAudio](https://github.com/pierr3/VectorAudio) - A Mac/Linux/Windows native Audio for VATSIM  ATC client
 
+## Discord bots
+- [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
+- [VATSIM Scandinavia Discord bot](https://github.com/Vatsim-Scandinavia/discord-bot)
+
 ## Others
 - [Portugal vACC EAUP](https://gitlab.com/portugal-vacc/eaup)
 - [Portugal vACC VATLARA](https://gitlab.com/portugal-vacc/vatlara)
 - [Sector File Coordinate converter](https://webtools.kusternet.ch/geo/coordinatesconverter)
 - [VATSIM Site Content](https://github.com/vatsimnetwork/site-content)
-- [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [ZAB ARTCC Sources](https://github.com/zabartcc)
 - [FSD](https://github.com/kuroneko/fsd)
 - [VRCLiveTraffic](https://github.com/Sequal32/vrclivetraffic) - Live real-world traffic into your VRC or Euroscope client
 - [OpenSkyToEuroscope](https://github.com/aap007freak/OpenSkyToEuroscope) - Injects OpenSky live traffic into Euroscope
+- [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
