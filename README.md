@@ -74,6 +74,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [VATSIM Scandinavia Discord bot](https://github.com/Vatsim-Scandinavia/discord-bot)
 
 ## Others
+- [Hoppie ACARS Docs](https://github.com/devHazz/hoppie-acars-docs/) - Attempts to document the informal ACARS / CPDLC message format in use on Hoppie
 - [Portugal vACC EAUP](https://gitlab.com/portugal-vacc/eaup)
 - [Portugal vACC VATLARA](https://gitlab.com/portugal-vacc/vatlara)
 - [Sector File Coordinate converter](https://webtools.kusternet.ch/geo/coordinatesconverter)
