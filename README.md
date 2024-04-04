@@ -66,7 +66,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Clients
 - [vice](https://github.com/mmp/vice)
 - [vatSys](https://github.com/vatSys)
-- [xPilot](https://github.com/xpilot-project/xpilot) - The X-Plane Pilot cliënt
+- [xPilot](https://github.com/xpilot-project/xpilot) - The X-Plane Pilot client
 - [vATIS](https://github.com/vatis-project/vatis) - Next Generation ATIS client
 - [VectorAudio](https://github.com/pierr3/VectorAudio) - A Mac/Linux/Windows native Audio for VATSIM  ATC client
 
