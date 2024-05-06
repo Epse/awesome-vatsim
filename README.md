@@ -84,6 +84,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [FSD](https://github.com/kuroneko/fsd)
 - [VRCLiveTraffic](https://github.com/Sequal32/vrclivetraffic) - Live real-world traffic into your VRC or Euroscope client
 - [OpenSkyToEuroscope](https://github.com/aap007freak/OpenSkyToEuroscope) - Injects OpenSky live traffic into Euroscope
+- [vatACARS](https://github.com/vatACARS/plugin) - vatSys ACARS Plugin for own network
 - [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
 - [VatNotif](https://github.com/kristiankunc/vatnotif-web) - Website that allows you to receive discord/push notifications when selected controller/s come online
 
