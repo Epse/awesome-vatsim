@@ -45,6 +45,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [VATSpy Data Project](https://github.com/vatsimnetwork/vatspy-data-project/) - Sector mappings used by many maps
 - [qutescoop](https://github.com/qutescoop/qutescoop/releases)
 - [vatglasses-converter](https://github.com/MatisseBE/vatglasses-converter/) - Tool to convert GNG files to [VatGlasses](https://vatglasses.uk) 3D map files. [This repo](https://github.com/lennycolton/VATGlasses-Data) holds all relevant sectors.
+- [vatsim-radar](https://github.com/daniluk4000/vatsim-radar) - Web-based mapping tool like SimAware
 
 ## Euroscope plugins
 - [Virtual Controller Helper](https://github.com/DrFreas/VCH)
