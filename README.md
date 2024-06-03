@@ -53,6 +53,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vSMR](https://github.com/pierr3/vSMR)
 - [Initial Climb](https://github.com/rpuig2001/InitialCimbPlugin)
 - [CDM](https://github.com/rpuig2001/CDM)
+- [vACDM](https://github.com/vacdm) - Euroscope A-CDM implementation using a centralized server with adherance to ECFMP
 - [CCAMS/ModeS](https://github.com/kusterjs/CCAMS)
 - [VFPC](https://github.com/DrFreas/VFPC) - Flight plan checker
 - [Delivery Helper](https://github.com/MorpheusXAUT/DelHel)
