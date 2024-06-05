@@ -33,6 +33,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## vACC/ARTCC Tools
 - [czqo core](https://github.com/czqoocavatsim/web) - All in one tool, used by Gander, VATCAN,...
 - [My Belux API](https://git.sr.ht/~epse/belux-training-platform-api/)
+- [VATGER ATCISS](https://github.com/vatger/atciss) - Air Traffic Control Information Support System
 
 ## Stands
 - [VATSIM Scandinavia Stands](https://github.com/Vatsim-Scandinavia/stands)
@@ -53,6 +54,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vSMR](https://github.com/pierr3/vSMR)
 - [Initial Climb](https://github.com/rpuig2001/InitialCimbPlugin)
 - [CDM](https://github.com/rpuig2001/CDM)
+- [vACDM](https://github.com/vacdm) - Euroscope A-CDM implementation using a centralized server with adherance to ECFMP
 - [CCAMS/ModeS](https://github.com/kusterjs/CCAMS)
 - [VFPC](https://github.com/DrFreas/VFPC) - Flight plan checker
 - [Delivery Helper](https://github.com/MorpheusXAUT/DelHel)
