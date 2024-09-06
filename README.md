@@ -72,6 +72,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vatSys](https://github.com/vatSys)
 - [xPilot](https://github.com/xpilot-project/xpilot) - The X-Plane Pilot client
 - [vATIS](https://github.com/vatis-project/vatis) - Next Generation ATIS client
+- [TrackAudio](https://github.com/pierr3/TrackAudio) - Next generation replacement for VectorAudio
 - [VectorAudio](https://github.com/pierr3/VectorAudio) - A Mac/Linux/Windows native Audio for VATSIM  ATC client
 
 ## Discord bots
