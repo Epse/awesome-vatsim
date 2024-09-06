@@ -13,6 +13,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Euroscope Plugins](#euroscope-plugins)
 - [Clients](#clients)
 - [Discord bots](#discord-bots)
+- [Controller Tools](#controller-tools)
 - [Others](#others)
 
 ## Libraries
@@ -76,6 +77,10 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Discord bots
 - [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [VATSIM Scandinavia Discord bot](https://github.com/Vatsim-Scandinavia/discord-bot)
+
+## Controller Tools
+- [VatIRIS](https://github.com/minsulander/vatiris/) - a replication of the IRL IRIS system
+- [VatScout](https://github.com/minsulander/vatscout) - a controller-focused tool to keep an eye on the VATSIM situation
 
 ## Others
 - [Hoppie ACARS Docs](https://github.com/devHazz/hoppie-acars-docs/) - Attempts to document the informal ACARS / CPDLC message format in use on Hoppie
