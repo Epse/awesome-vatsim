@@ -78,6 +78,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Discord bots
 - [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [VATSIM Scandinavia Discord bot](https://github.com/Vatsim-Scandinavia/discord-bot)
+- [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC)
 
 ## Controller Tools
 - [VatIRIS](https://github.com/minsulander/vatiris/) - a replication of the IRL IRIS system
