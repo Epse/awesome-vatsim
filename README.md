@@ -78,7 +78,6 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Discord bots
 - [Staff Up Bot](https://github.com/Celeo/staff_up_bot)
 - [VATSIM Scandinavia Discord bot](https://github.com/Vatsim-Scandinavia/discord-bot)
-- [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC)
 
 ## Controller Tools
 - [VatIRIS](https://github.com/minsulander/vatiris/) - a replication of the IRL IRIS system
@@ -97,4 +96,5 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vatACARS](https://github.com/vatACARS/plugin) - vatSys ACARS Plugin for own network
 - [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
 - [VatNotif](https://github.com/kristiankunc/vatnotif-web) - Website that allows you to receive discord/push notifications when selected controller/s come online
+- [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC)
 
