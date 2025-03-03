@@ -96,4 +96,5 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vatACARS](https://github.com/vatACARS/plugin) - vatSys ACARS Plugin for own network
 - [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
 - [VatNotif](https://github.com/kristiankunc/vatnotif-web) - Website that allows you to receive discord/push notifications when selected controller/s come online
+- [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC) - Program that displays your current VATSIM flight on your discord profile
 
