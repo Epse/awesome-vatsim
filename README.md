@@ -89,6 +89,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Portugal vACC EAUP](https://gitlab.com/portugal-vacc/eaup)
 - [Portugal vACC VATLARA](https://gitlab.com/portugal-vacc/vatlara)
 - [Sector File Coordinate converter](https://webtools.kusternet.ch/geo/coordinatesconverter)
+- [Sector File Tools](https://github.com/eirslett/sector-file-tools) - Tool to work with ASR, SCT and ESE files that can also handle GeoJSON
 - [VATSIM Site Content](https://github.com/vatsimnetwork/site-content)
 - [ZAB ARTCC Sources](https://github.com/zabartcc)
 - [FSD](https://github.com/kuroneko/fsd)
