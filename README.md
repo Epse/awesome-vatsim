@@ -82,6 +82,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [VATGER ATCISS](https://github.com/vatger/atciss) - Air Traffic Control Information Support System
 - [VatIRIS](https://github.com/minsulander/vatiris/) - a replication of the IRL IRIS system
 - [VatScout](https://github.com/minsulander/vatscout) - a controller-focused tool to keep an eye on the VATSIM situation
+- [vacs](https://github.com/MorpheusXAUT/vacs) - A ground-to-ground communications tool and replacement for VCCS
 
 
 ## Others
