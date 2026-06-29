@@ -65,7 +65,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [UACPlugin](https://github.com/pierr3/UACPlugin) - Simulates European UAC systems
 - [ZoomDeclutter](https://github.com/pierr3/ZoomDeclutter) - Allows hiding and showing sector elements depending on zoom level
 - [RDF](https://github.com/chembergj/RDF) - Simulates Radio Direction Finding systems
-
+- [euroNAT](https://github.com/rffuret/euroNAT/) - Display North Atlantic Tracks
+  
 ## Clients
 - [vice](https://github.com/mmp/vice)
 - [vatSys](https://github.com/vatSys)
@@ -100,4 +101,6 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
 - [VatNotif](https://github.com/kristiankunc/vatnotif-web) - Website that allows you to receive discord/push notifications when selected controller/s come online
 - [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC) - Displays live VATSIM pilot or controller info on your discord profile
+- [Tools for flight sim environment]((https://kilojuliett.ch/webtools/)) - Helpful converters and info for mapping
+
 
