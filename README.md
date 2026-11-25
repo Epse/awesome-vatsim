@@ -100,4 +100,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [vPilot Pushover](https://github.com/blt950/vPilot-Pushover) - Plugin for vPilot to notify you about vPilot and Hoppie messages on your mobile device
 - [VatNotif](https://github.com/kristiankunc/vatnotif-web) - Website that allows you to receive discord/push notifications when selected controller/s come online
 - [VATSIM Discord Rich Presence](https://github.com/bubfusion/Vatsim-Discord-RPC) - Displays live VATSIM pilot or controller info on your discord profile
-
+- [atc-readback-check](https://github.com/iose1/atc-readback-check) - Checks a pilot's read-back (squawk, level, heading, frequency, QNH, runway) against the ATC instruction
